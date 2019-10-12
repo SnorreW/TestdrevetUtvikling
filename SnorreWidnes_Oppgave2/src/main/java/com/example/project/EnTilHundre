@@ -1,0 +1,9 @@
+package com.example.project;
+
+public class EnTilHundre {
+
+    public int tall(int a) {
+        return a;
+    }
+
+}
